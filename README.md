@@ -1,1 +1,1 @@
-# ML
+### **This repository contains all the concepts, experiments, and hands-on work I learned while diving into PW. It serves as a structured learning log, practice space, and reference for core ML and data science fundamentals.**
