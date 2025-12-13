@@ -1,0 +1,1 @@
+### **This focuses on Exploratory Data Analysis (EDA), covering data understanding, summary statistics, data visualization, correlation analysis, and insights extraction to better understand patterns and relationships within the dataset.**
