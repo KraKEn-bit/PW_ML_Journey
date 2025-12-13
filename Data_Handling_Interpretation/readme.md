@@ -1,1 +1,1 @@
-# **This covers all the stuff you need to do feature extractions, missing value treatments, Imbalance Dataset handling, Scaling, Data Encoding ,Under and overfitting etc** 
+# **This covers essential data preprocessing and modeling techniques, including feature extraction, missing value handling, imbalanced dataset treatment, data scaling, encoding, and concepts related to underfitting and overfitting.** 
