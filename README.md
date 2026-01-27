@@ -1,5 +1,5 @@
 
-# PW_ML_Journey 🚀
+# PW_ML_Journey 
 
 ![Status](https://img.shields.io/badge/Status-Active_Learning-success)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
