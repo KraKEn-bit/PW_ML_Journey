@@ -12,22 +12,22 @@ It serves as a structured learning log, practice space, and reference for core M
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 Here is a breakdown of the topics covered in this repository:
 
-### 🔍 Supervised Learning
+### Supervised Learning
 * **`/REGRESSION`** - Implementation of Linear Regression, Polynomial Regression, and regularization techniques (Ridge/Lasso).
 * **`/CLASSIFICATION`** - Basics of classification algorithms (Logistic Regression, etc.).
 * **`/DECISION_TREE`** - Decision Tree classifiers and regressors, including pruning techniques.
 * **`/Support Vector Machine (SVM)`** - SVM implementation for classification and regression tasks.
 * **`/KNN and PCA Analysis`** - K-Nearest Neighbors and Principal Component Analysis for dimensionality reduction.
 
-### 🌲 Ensemble Techniques
+###  Ensemble Techniques
 * **`/Ensemble_Techniques`** - Bagging, Random Forest, and voting classifiers.
 * **`/Stacking and Boosting`** - Advanced ensemble methods like Gradient Boosting, XGBoost, AdaBoost, and Stacking.
 
-### 💡 Unsupervised Learning
+###  Unsupervised Learning
 * **`/CLUSTERING`** - Grouping data using K-Means, DBSCAN, and Hierarchical Clustering.
 * **`/ANOMALY DETECTION`** - Techniques for detecting outliers and unusual patterns in data.
 
@@ -41,17 +41,8 @@ Here is a breakdown of the topics covered in this repository:
 
 ---
 
-## 🛠️ Tech Stack & Libraries
-This repository primarily uses **Python** and the following libraries:
 
-* **Data Manipulation:** `pandas`, `numpy`
-* **Visualization:** `matplotlib`, `seaborn`
-* **Machine Learning:** `scikit-learn`
-* **Notebooks:** `Jupyter / Google Colab`
-
----
-
-## 🚀 Getting Started
+## How to use:
 
 To explore the code on your local machine:
 
